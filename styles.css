@@ -1,0 +1,21 @@
+
+.navbar{
+
+    background-color: rgb(32, 32, 32);
+
+}
+
+.img-thumbnail{
+    height: 50px;
+    width: 50px;
+
+}
+
+.container {
+    flex-direction: row ;
+  }
+
+.col-sm{
+
+    
+}
